@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+**/.env
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Airflow local config and logs
+Airflow/config/
+Airflow/logs/
+
+# OS generated
+.DS_Store
+Thumbs.db
