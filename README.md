@@ -11,5 +11,7 @@ docker compose up airflow-init
 docker compose up
 
 ### Downloading data set
+```bash
 sudo curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz -o [Destination]
+```
 
